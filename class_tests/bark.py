@@ -5,5 +5,6 @@ class Dog:
     def bark(self):
         print(self.name, "says: Woof!")
 
-my_dog = Dog("Rex")
+dog_name=input("What is your dogs name?")
+my_dog = Dog(dog_name)
 my_dog.bark()
