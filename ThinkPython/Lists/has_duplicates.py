@@ -6,5 +6,5 @@ def has_duplicates(nums):
     else:
         return False
 
-print(has_duplicates(['b', 'a', 'd', 'c', 'b']))
+##print(has_duplicates(['b', 'a', 'd', 'c', 'b']))
 
